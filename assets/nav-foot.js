@@ -9,7 +9,7 @@ document.getElementById("nav").innerHTML =
 +  '<span> Toys World</span>'
 +'</label>'
 +'<ul>'
-+  '<li><a class="active" href="/toy/page.html">Toy Collections</a></li>'
++  '<li><a class="active" href="/page.html">Toy Collections</a></li>'
 +  '<li><a href="https://www.facebook.com/qtrino"><img src="https://qtrinoindia.github.io/style/img/logo/qfb.png" alt="fb"></a></li>'
 +  '<li><a href="https://www.instagram.com/_qtrino"><img src="https://qtrinoindia.github.io/style/img/logo/qinstagram.png" alt="instra"></a></li>'
 +  '<li><a href="https://twitter.com/qtrino1"><img src="https://qtrinoindia.github.io/style/img/logo/qtwitter.png" alt="twitter"></a></li>'
